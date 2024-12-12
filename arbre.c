@@ -14,7 +14,7 @@ void arbre(int hc,int ht,int lt){
 	}
 	
 	for (int h =1;h<=ht;h++){
-		for (int space=1;space<m;space++){
+		for (int space=2;space<m;space++){
 			printf(" ");
 		}
 		}
